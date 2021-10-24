@@ -1,5 +1,6 @@
 # Supprimer les trackers
 
+
 ## Privatezilla
 Privatezilla est le moyen le plus simple d'effectuer un contrôle rapide de la confidentialité et de la sécurité de Windows 10
 [privatezilla](https://github.com/builtbybel/privatezilla/releases)
