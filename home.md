@@ -9,7 +9,7 @@ dateCreated: 2021-10-23T17:43:50.616Z
 ---
 
 # Feranet
-Mon pense bête sur des commandes Linux, des fichiers de configuration, des logiciels, etc ...
+Mon pense bête sur des commandes Linux, des fichiers de configuration, logiciels, scripts, etc ...
 
 > Lorem ipsum dolor sit amet
 > Consectetur adipiscing elit
