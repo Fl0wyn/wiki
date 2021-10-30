@@ -2,13 +2,11 @@
 title: BASH - Exemples
 description: 
 published: true
-date: 2021-10-29T17:35:46.011Z
+date: 2021-10-30T10:33:01.411Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:35:46.011Z
 ---
-
-# BASH - Exemples
 
 ## Liste des packages a installer
 ```bash
