@@ -1,4 +1,12 @@
-# Screen
+---
+title: Screen
+description: 
+published: true
+date: 2021-10-30T10:36:40.116Z
+tags: 
+editor: markdown
+dateCreated: 2021-10-29T17:49:09.237Z
+---
 
 ## Listes des commandes
 |💻|💬|
