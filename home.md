@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2021-10-30T10:16:52.122Z
+date: 2021-10-30T17:01:17.425Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-24T17:43:53.411Z
@@ -10,16 +10,3 @@ dateCreated: 2021-10-24T17:43:53.411Z
 
 # Wiki Feranet
 Mon pense bête sur des commandes Linux, des fichiers de configuration, logiciels, scripts, etc ...
-
-<br/>
-
----
-
-<br/>
-
-
--  [<i class="fab fa-windows fa-lg" style="color:#2196F3"></i> *Windows*](/Windows)
--  [<i class="fab fa-linux fa-lg" style="color:#212121"></i> *linux*](/Linux)
--  [<i class="fas fa-code fa-lg" style="color:#FF5722"></i> *Scripts*](/Scripts)
-
-{.links-list}
