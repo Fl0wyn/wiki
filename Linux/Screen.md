@@ -2,14 +2,14 @@
 title: Screen
 description: 
 published: true
-date: 2021-10-30T10:36:40.116Z
+date: 2021-10-30T10:40:16.226Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:49:09.237Z
 ---
 
 ## Listes des commandes
-|💻|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`screen -S session1`| Créer un nouveau screen en nommant la session|
 |`screen -ls`| Afficher les screen existants|
@@ -21,7 +21,7 @@ dateCreated: 2021-10-29T17:49:09.237Z
 
 
 ## Navigation entre les terminaux
-|💻|💬|
+|:computer:|:newspaper:|
 |-|-|
 |<kbd>CTRL</kbd> + <kbd>a</kbd> suivi de <kbd>d</kbd>| Détacher le screen|
 |<kbd>CTRL</kbd> + <kbd>a</kbd> suivi de <kbd>D</kbd>| Quitter le screen|
