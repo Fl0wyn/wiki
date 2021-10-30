@@ -1,4 +1,12 @@
-# Vim
+---
+title: Vim
+description: 
+published: true
+date: 2021-10-30T10:36:55.098Z
+tags: 
+editor: markdown
+dateCreated: 2021-10-29T17:49:12.954Z
+---
 
 ## Se déplacer dans le texte
 |💻|💬|
