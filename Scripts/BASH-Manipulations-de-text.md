@@ -1,8 +1,8 @@
 ---
-title: BASH - Manipulations de text
+title: Manipulations de text
 description: 
 published: true
-date: 2021-10-30T10:42:03.639Z
+date: 2021-10-30T16:54:05.977Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:20.942Z
