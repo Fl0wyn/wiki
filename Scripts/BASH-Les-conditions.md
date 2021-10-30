@@ -2,7 +2,7 @@
 title: BASH - Les conditions
 description: 
 published: true
-date: 2021-10-30T10:33:26.682Z
+date: 2021-10-30T10:41:22.410Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:36:30.041Z
@@ -45,7 +45,7 @@ esac
 ```
 
 ## Test : Chaînes de caractères
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`$chaine1 = chaine2`| Vérifie si les deux chaînes sont identiques | 
 |`$chaine1 != $chaine2`| Vérifie si les deux chaînes sont différentes |
@@ -53,7 +53,7 @@ esac
 |`-n $chaine`| Vérifie si la chaîne est non vide |
 
 ## Test : Nombres
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`$num1 -eq $num2`| Vérifie si les nombres sont égaux (EQual) |
 |`$num1 -ne $num2`| Vérifie si les nombres sont différents (No Equal)|
@@ -63,7 +63,7 @@ esac
 |`$num1 -ge $num2`| Vérifie si num1 est supérieur ou égal ( >= ) à num2 (Greater or Equal) |
 
 ## Test : Fichiers
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`-e $nomfichier`| Vérifie si le fichier existe |
 |`-d $nomfichier`| Vérifie si le fichier est un répertoire |
