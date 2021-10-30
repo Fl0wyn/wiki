@@ -1,8 +1,8 @@
 ---
-title: JavaScript - Exemples
+title: Exemples
 description: 
 published: true
-date: 2021-10-30T10:33:57.701Z
+date: 2021-10-30T16:53:16.196Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:51.241Z
