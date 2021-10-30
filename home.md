@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2021-10-30T10:02:06.529Z
+date: 2021-10-30T10:06:28.074Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-24T17:43:53.411Z
@@ -11,7 +11,15 @@ dateCreated: 2021-10-24T17:43:53.411Z
 # Feranet
 Mon pense bête sur des commandes Linux, des fichiers de configuration, logiciels, scripts, etc ...
 
+<br/>
+
+---
+
+<br/>
 
 
--  [<i class="fas fa-lg fa-bug" style="color:#8BC34A"></i> *Windows*](/Windows)
+-  [<i class="fab fa-windows fa-lg" style="color:#2196F3"></i> *Windows*](/Windows)
+-  [<i class="fab fa-linux fa-lg" style="color:#212121"></i> *linux*](/linux)
+-  [<i class="fas fa-code fa-lg" style="color:#FF5722"></i> *Scripts*](/Scripts)
+
 {.links-list}
