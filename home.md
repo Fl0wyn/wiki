@@ -2,13 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2021-10-30T10:06:28.074Z
+date: 2021-10-30T10:11:58.059Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-24T17:43:53.411Z
 ---
 
-# Feranet
+# Wiki Feranet
 Mon pense bête sur des commandes Linux, des fichiers de configuration, logiciels, scripts, etc ...
 
 <br/>
