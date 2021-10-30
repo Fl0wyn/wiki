@@ -2,13 +2,11 @@
 title: Supprimer les trackers
 description: 
 published: true
-date: 2021-10-29T17:33:43.260Z
+date: 2021-10-30T10:34:11.128Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:32:43.738Z
 ---
-
-# Supprimer les trackers
 
 ## Privatezilla
 Privatezilla est le moyen le plus simple d'effectuer un contrôle rapide de la confidentialité et de la sécurité de Windows 10
