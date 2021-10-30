@@ -1,4 +1,12 @@
-# Mariadb
+---
+title: Mariadb
+description: 
+published: true
+date: 2021-10-30T10:36:06.135Z
+tags: 
+editor: markdown
+dateCreated: 2021-10-29T17:46:58.574Z
+---
 
 ## Bases
 ```sql
