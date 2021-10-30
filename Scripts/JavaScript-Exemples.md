@@ -2,13 +2,11 @@
 title: JavaScript - Exemples
 description: 
 published: true
-date: 2021-10-29T17:38:51.241Z
+date: 2021-10-30T10:33:57.701Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:51.241Z
 ---
-
-# JavaScript - Exemples
 
 ## Date et heure
 ```js
