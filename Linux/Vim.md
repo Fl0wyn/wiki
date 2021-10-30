@@ -2,14 +2,14 @@
 title: Vim
 description: 
 published: true
-date: 2021-10-30T10:36:55.098Z
+date: 2021-10-30T10:39:48.270Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:49:12.954Z
 ---
 
 ## Se déplacer dans le texte
-|💻|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`0`| Se déplacer en début de ligne |
 |`$`| Se déplacer en fin de ligne |
@@ -19,7 +19,7 @@ dateCreated: 2021-10-29T17:49:12.954Z
 |`gg`| Se déplacer au début du fichier |
 
 ## Effacer du texte
-|💻|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`dw`| Effacer un mot |
 |`d2w`| Effacer 2 mots |
@@ -30,7 +30,7 @@ dateCreated: 2021-10-29T17:49:12.954Z
 |`d$`| Effacer du curseur jusqu'à la fin de la ligne |
 
 ## Copier et coller du texte
-|💻|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`yw`| Copier un mot |
 |`y2w`| Copier 2 mots |
@@ -40,14 +40,14 @@ dateCreated: 2021-10-29T17:49:12.954Z
 |`6p`| Coller 6 fois une ligne ou un mot |
 
 ## Annuler des modifications
-|💻|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`u`| Annuler les actions précédentes |
 |`U`| Annuler tous les changements sur une ligne |
 |<kbd>CTRL</kbd> + <kbd>R</kbd> | Annuler l'annulation |
 
 ## Enregistrer, quitter, rechercher, etc.
-|💻|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`/`| Rechercher un mot |
 |`:w`| Enregistrer |
