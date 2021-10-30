@@ -2,14 +2,14 @@
 title: BASH - Manipulations de text
 description: 
 published: true
-date: 2021-10-30T10:33:42.866Z
+date: 2021-10-30T10:42:03.639Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:20.942Z
 ---
 
 ## sed
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`sed '1d'`| Supprimer la 1er ligne |
 |`sed '$d'`| Supprimer la dernière ligne |
@@ -35,7 +35,7 @@ dateCreated: 2021-10-29T17:38:20.942Z
 |`sed 's/\.word3$//g' `| Supprimer le mot word3 des dernières lignes |
 
 ## cut
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`cut -c2`| Afficher le 2e caractère |
 |`cut -c1-10`| Afficher du 1er au 10e caractère |
@@ -46,14 +46,14 @@ dateCreated: 2021-10-29T17:38:20.942Z
 |`cut -d; --complement -s -f1,3`| Afficher tout les champs séparés par ';' sauf le 1er et 3eme champs |
 
 ## tr
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`tr -d 'wd'`| Supprimer les caractères 'w' et 'd' |
 |`tr -s 'a' 'b'`| Convertir le caractère 'a' en 'b' |
 |`tr [A-Z] [a-z]`| Convertir les majuscules en minuscule |
 
 ## awk
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`awk '{print $2}'`| Afficher le 2e champ |
 |`awk '{print $1,$4}'`| Afficher le 1er et 2e champ |
@@ -65,14 +65,14 @@ dateCreated: 2021-10-29T17:38:20.942Z
 |`awk '{print substr($2, 1, length($2)-3)}'`| Supprimer les 3 derniers caractères du 2eme champs';' |
 
 ## head & tail
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`head -3`| Afficher les 3 premières lignes |
 |`tail -4`| Afficher les 4 dernières lignes |
 |`tail -f`| Afficher les lignes ajoutées à mesure que le fichier s'agrandit |
 
 ## grep
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`grep -i word`| Afficher la ligne contenant la chaîne de caractère 'word' en ignorant la case |
 |`grep -A 2 word`| Afficher 2 lignes en dessous de la chaîne de caractère 'word' |
@@ -86,7 +86,7 @@ dateCreated: 2021-10-29T17:38:20.942Z
 |`grep -c`| Affiche le nombre de lignes selectionées |
 
 ## sort
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`sort`| Trier par ordre alphabétique |
 |`sort -r`| Trier par ordre décroissant |
@@ -95,14 +95,14 @@ dateCreated: 2021-10-29T17:38:20.942Z
 |`sort -t: -k 3,3`| Trier le 3eme champ à partir du séparateur ':' |
 
 ## wc
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`wc -l`| Compter le nombre de ligne d'un fichier |
 |`wc -w`| Compter le nombre de mot d'un fichier |
 |`wc -m`| Compter le nombre caractère d'un fichier |
 
 ## uniq
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`uniq`| Supprimer les lignes en double |
 |`uniq -d`| Afficher seulement les lignes en double |
@@ -110,7 +110,7 @@ dateCreated: 2021-10-29T17:38:20.942Z
 |`uniq -c`| Compter les lignes en double |
 
 ## du
-|🖥|💬|
+|:computer:|:newspaper:|
 |-|-|
 |`du -h`| Afficher la taille sous forme lisible |
 |`du -c`| Afficher la taille avec le total |
