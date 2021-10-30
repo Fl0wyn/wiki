@@ -1,4 +1,12 @@
-# SSH
+---
+title: SSH
+description: 
+published: true
+date: 2021-10-30T10:36:20.872Z
+tags: 
+editor: markdown
+dateCreated: 2021-10-29T17:49:05.467Z
+---
 
 ## Se connecter à une machine distante
 ```bash
