@@ -2,13 +2,11 @@
 title: BASH - Les conditions
 description: 
 published: true
-date: 2021-10-29T17:36:30.041Z
+date: 2021-10-30T10:33:26.682Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:36:30.041Z
 ---
-
-# BASH - Les conditions
 
 ## Structure : if
 ```bash
