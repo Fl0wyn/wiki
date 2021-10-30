@@ -1,8 +1,8 @@
 ---
-title: BASH - Les conditions
+title: Les conditions
 description: 
 published: true
-date: 2021-10-30T10:41:22.410Z
+date: 2021-10-30T16:54:30.966Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:36:30.041Z
