@@ -2,7 +2,7 @@
 title: Manipulation de texte
 description: 
 published: true
-date: 2021-10-31T17:08:29.973Z
+date: 2021-10-31T17:12:43.115Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-31T15:29:54.477Z
@@ -24,5 +24,10 @@ dateCreated: 2021-10-31T15:29:54.477Z
 ## Split
 |:computer:|:newspaper:|
 |-|-|
-|`("Hellow World" | Out-String).trim() | %{$_.Split(' ')[0]}`| Afficher le 1er champ|
-|`("Hellow World" | Out-String).trim() | %{$_.Split(' ')[-1]}`| Afficher le dernier champ |
+|`("Hello World" | %{$_.Split(' ')[0]}`| Afficher le 1er champ |
+|`($abc | Out-String).trim() | %{$_.Split(' ')[-1]}`| Afficher le dernier champ d'un STRING |
+
+## replace
+|:computer:|:newspaper:|
+|-|-|
+|`$abc -replace 'w|\.'`| Supprimer les caractères 'w' et '.' |
