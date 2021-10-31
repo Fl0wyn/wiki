@@ -1,8 +1,8 @@
 ---
-title: Manipulations de text
+title: Manipulations de texte
 description: 
 published: true
-date: 2021-10-30T16:54:05.977Z
+date: 2021-10-31T15:30:10.433Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:20.942Z
