@@ -2,7 +2,7 @@
 title: Manipulations de texte
 description: 
 published: true
-date: 2021-10-31T15:30:10.433Z
+date: 2021-10-31T15:30:18.975Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:20.942Z
