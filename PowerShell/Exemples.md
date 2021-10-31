@@ -2,11 +2,20 @@
 title: Exemples
 description: 
 published: true
-date: 2021-10-30T17:37:24.039Z
+date: 2021-10-31T15:15:46.380Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-30T17:37:24.039Z
 ---
+
+## Commande de base
+```powershell
+# Afficher la date formatée
+$Date = Get-Date -Format "dd/MM/yyyy HH:mm:ss"
+
+# Afficher les services stopés
+Get-Service | Where-Object{ $_.Status -eq "Stopped"}
+```
 
 ## Envoyer un mail
 ```powershell
