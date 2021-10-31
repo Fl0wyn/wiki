@@ -2,7 +2,7 @@
 title: Exemples
 description: 
 published: true
-date: 2021-10-31T15:15:46.380Z
+date: 2021-10-31T15:26:55.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-30T17:37:24.039Z
@@ -15,6 +15,9 @@ $Date = Get-Date -Format "dd/MM/yyyy HH:mm:ss"
 
 # Afficher les services stopés
 Get-Service | Where-Object{ $_.Status -eq "Stopped"}
+
+# Afficher l'ID Evenement d'un service ou d'une application
+Get-EventLog -LogName "Veeam Agent" -InstanceId 190
 ```
 
 ## Envoyer un mail
