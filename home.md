@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2021-11-01T12:53:24.570Z
+date: 2021-11-01T12:54:29.558Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-24T17:43:53.411Z
@@ -11,7 +11,7 @@ dateCreated: 2021-10-24T17:43:53.411Z
 # Wiki Feranet
 Mon pense bête sur des commandes Linux, des fichiers de configuration, logiciels, scripts, etc ...
 
-<div style="text-align:center;margin-top:80px;">
-	<img src="/bureau.svg" alt="desktop" width="800px"/>
+<div style="margin-top:40px;">
+	<img src="/bureau.svg" alt="desktop" width="800px" />
 </div>
 
