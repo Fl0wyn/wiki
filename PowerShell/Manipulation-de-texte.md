@@ -2,7 +2,7 @@
 title: Manipulation de texte
 description: 
 published: true
-date: 2021-10-31T17:12:43.115Z
+date: 2021-11-02T16:15:15.391Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-31T15:29:54.477Z
@@ -24,7 +24,7 @@ dateCreated: 2021-10-31T15:29:54.477Z
 ## Split
 |:computer:|:newspaper:|
 |-|-|
-|`("Hello World" | %{$_.Split(' ')[0]}`| Afficher le 1er champ |
+|`("Hello World" | %{$_.Split(' ')[0]})`| Afficher le 1er champ |
 |`($abc | Out-String).trim() | %{$_.Split(' ')[-1]}`| Afficher le dernier champ d'un STRING |
 
 ## replace
