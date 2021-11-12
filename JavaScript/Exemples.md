@@ -2,7 +2,7 @@
 title: Exemples
 description: 
 published: true
-date: 2021-10-30T18:26:21.383Z
+date: 2021-11-12T20:44:31.445Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:51.241Z
@@ -94,4 +94,23 @@ function getOS() {
 }
 return getOS();
 ```
+
+## Convertiseur de taille
+```js
+export const convertKo = (number) => {
+    const x = number;
+    let res;
+
+    if (x >= Math.pow(1024, 3))
+        res = Math.round(x / Math.pow(1024, 3)) + " To";
+    else if (x >= Math.pow(1024, 2))
+        res = Math.round(x / Math.pow(1024, 2)) + " Go";
+    else if (x >= 1024) res = Math.round(x / 1024) + " Mo";
+    else res = x + " Ko";
+
+    return res;
+}
+```
+
+
 
