@@ -2,7 +2,7 @@
 title: Manipulation de texte
 description: 
 published: true
-date: 2021-11-14T18:00:01.778Z
+date: 2021-11-14T18:16:49.876Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-31T15:29:54.477Z
@@ -31,3 +31,9 @@ dateCreated: 2021-10-31T15:29:54.477Z
 |:computer:|:newspaper:|
 |-|-|
 |`$abc -replace 'w|\.'`| Supprimer les caractères 'w' et '.' |
+
+
+## substring
+|:computer:|:newspaper:|
+|-|-|
+|`substring(2)`| Supprimer les 2 premiers caractères |
