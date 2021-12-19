@@ -2,7 +2,7 @@
 title: Exemples
 description: 
 published: true
-date: 2021-11-12T20:44:31.445Z
+date: 2021-12-19T11:29:48.956Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:51.241Z
@@ -95,7 +95,7 @@ function getOS() {
 return getOS();
 ```
 
-## Convertiseur de taille
+## Convertiseur de taille (1)
 ```js
 export const convertKo = (number) => {
     const x = number;
@@ -111,6 +111,29 @@ export const convertKo = (number) => {
     return res;
 }
 ```
+
+## Convertiseur de taille (2)
+```js
+export const convertByte = (a, d = 0, k = 1024) => {
+  const i = Math.floor(Math.log(a) / Math.log(k));
+  return (
+    parseFloat((a / Math.pow(k, i)).toFixed(d)) +
+    " " +
+    ["o", "Ko", "Mo", "Go", "To"][i]
+  );
+};
+```
+
+## Convertiseur de bande passante
+```js
+export const convertBandwidth = (a, d = 2, k = 125000) => {
+  return parseFloat((a / k).toFixed(d)) + " Mbps";
+};
+```
+
+
+
+
 
 
 
