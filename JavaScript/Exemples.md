@@ -2,7 +2,7 @@
 title: Exemples
 description: 
 published: true
-date: 2021-12-19T11:29:48.956Z
+date: 2021-12-31T16:01:41.340Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:51.241Z
@@ -131,6 +131,12 @@ export const convertBandwidth = (a, d = 2, k = 125000) => {
 };
 ```
 
+## Capitaliser la première lettre
+```js
+export const capitalizeFirstLetter = (a) => {
+  return a.charAt(0).toUpperCase() + a.slice(1);
+};
+```
 
 
 
