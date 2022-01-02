@@ -2,7 +2,7 @@
 title: Manipulations de texte
 description: 
 published: true
-date: 2022-01-02T09:08:33.163Z
+date: 2022-01-02T10:21:06.361Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T17:38:20.942Z
@@ -17,7 +17,7 @@ dateCreated: 2021-10-29T17:38:20.942Z
 |`sed '2,5d'`| Supprimer les lignes de 2 à 5 |
 |`sed '/word/d'`| Supprimer les lignes contenant le mot 'word' |
 |`sed -e '/word1/d;/word2/d'`| Supprimer les lignes contenant les mots 'word1' et 'word2' |
-|`sed 's/.*word.*//g'`| Supprimer les lignes contenant la chaîne de caractère 'word' |
+|`sed 's/.*word.*//g'`| Effacer les lignes contenant la chaîne de caractère 'word' |
 |`sed '/^$/d'`| Supprimer les lignes vides |
 |`sed 's/word//g'`| Effacer le mot 'word' d'une ligne |
 |`sed -e 's/chaîne1/chaîne2/g'`| Remplacer la chaîne de caractère 'chaîne1' en 'chaîne2' |
