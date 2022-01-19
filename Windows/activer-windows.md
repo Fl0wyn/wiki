@@ -2,7 +2,7 @@
 title: Activer Windows
 description: 
 published: true
-date: 2022-01-19T13:06:46.118Z
+date: 2022-01-19T13:31:43.189Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T19:54:06.325Z
@@ -13,8 +13,7 @@ slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms kms.feranet.fr
 slmgr.vbs /ato
 ```
-Windows 10 Famille : TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
-Windows 10 Professionnel: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows 10 et 11 Professionnel : W269N-WFGWX-YVC9B-4J6C9-T83GX	
 
 ---
 
